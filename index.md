@@ -17,7 +17,7 @@ title: Matt Atkins
 
 * [PsalmCloud](http://www.psalmcloud.co.uk/)
 * [100 Day Bible Challenge \[iPad app\]](http://100daybiblechallenge.com/app/)
-* [Readmap](http://readmap.herokuapp.com/)
+* [National Trust Detour Planner](http://matkins.github.io/ntdetour/)
 
 ## Experiments
 * [Topography](https://dl.dropboxusercontent.com/u/1641228/maps/map.html)
