@@ -24,5 +24,5 @@ title: Matt Atkins
 
 ## Sites I've made for other people
 
-* [City:Base](http://citybase.org)
+* [St Philip's Church](http://stphilipssheffield.org)
 * [Fran Hall writing](http://franhallwriting.com/)
