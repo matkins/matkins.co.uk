@@ -11,7 +11,6 @@ title: Matt Atkins
 * [Twitter](http://www.twitter.com/matkins)
 * [Medium](http://medium.com/@matkins)
 * [SoundCloud](https://soundcloud.com/matkins)
-* [Readmill](https://readmill.com/matkins)
 
 ## Projects
 
